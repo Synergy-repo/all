@@ -1,0 +1,22 @@
+[submodule "synergy"]
+	path = synergy
+	url = https://github.com/Synergy-repo/synergy.git
+	branch = master
+[submodule "concord"]
+	path = concord
+	url = https://github.com/Synergy-repo/concord.git
+	branch = main
+[submodule "psp"]
+	path = psp
+	url = https://github.com/Synergy-repo/psp.git
+	branch = master
+[submodule "shinjuku"]
+	path = shinjuku
+	url = https://github.com/Synergy-repo/shinjuku.git
+	branch = master
+[submodule "TinyQuanta"]
+	path = TinyQuanta
+	url = https://github.com/Synergy-repo/TinyQuanta.git
+[submodule "udp_generator"]
+	path = udp_generator
+	url = https://github.com/Synergy-repo/udp_generator.git
